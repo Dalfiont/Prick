@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>School Website</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+  <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<iframe id="video" src="https://www.youtube.com/watch?v=9Frow8HMh74"></iframe>
+
+<div class="container">
+    <h2 class="page-header" id="campus_life">Campus Life</h2>
+    <center>
+        <div class="travel_mainDiv"></div>
+        <img src="church.jpg">
+        <h4 class="text-capitalize"><kbd>School Church</kbd></h4>
+        <hr>
+        <h5 class="text-success text-capitalize">Was established in 1978</h5>
+        <p class="text-muted"> The school church is where students can go to learn about their faith and practice their religion.It can 
+            also be a source of support for students who are going through difficult times. They can provide a safe and supportive 
+            environment where students can talk about their problems and get help.</p>
+      </center>
+</div>
+
+<br><br>
+
+    <center>
+        <div class="travel_mainDiv"></div>
+        <img src="st2.jpg">
+        <h4 class="text-capitalize"><kbd>School Library</kbd></h4>
+        <hr>
+        <h5 class="text-success text-capitalize">Was built in 1980</h5>
+        <p class="text-muted">The library is where students can go to access information and resources. They can be a physical building 
+            or a virtual space, and they can offer a variety of services.For example : Borrowing books, magazines, and other materials,
+            conducting research,getting help with homework and finding information on a variety of topics.</p>
+      </center>
+</div>
+
+<center>
+    <div class="travel_mainDiv"></div>
+    <img src="st3.jpg">
+    <h4 class="text-capitalize"><kbd>School Auditorium</kbd></h4>
+    <hr>
+    <h5 class="text-success text-capitalize">Was built in 1982</h5>
+    <p class="text-muted">The auditorium is designed for school gatherings, presentations, plays and graduation ceremonies.They can also
+         be used for other events, such as conventions and class voting.It is vital role in the school. They provide a place for people
+          to gather, learn, and be entertained.</p>
+  </center>
+
+<h2 class="page-header" id="achievements">School Achievements</h2>
+<div class="bg-primary movie_head" data-toggle="collapse" data-target="#school_achievement1">Inter School Debate On Environment Pollution<i class="fa fa-sort-desc"></i>
+</div>
+
+<div id="school_achievement1" class="collapse">
+    <div class="achievement_text">
+        <img src="se1.jpg" class="img-responsive img-thumbnail">
+        <h5 class="text-success text-capitalize">Won First Prize In The Inter School Debate About Environment Pollution
+            <span class="glyphicon glyphicon-star"></span>
+            <span class="glyphicon glyphicon-star"></span>
+            <span class="glyphicon glyphicon-star"></span>
+            <span class="glyphicon glyphicon-star"></span>
+            <span class="glyphicon glyphicon-star"></span>
+        </h5>
+        <p>The inter-school debate was a success, and it had a positive impact on both the students who participated and the school 
+            community as a whole. It was a great opportunity for students to learn about a controversial issue, to develop their critical 
+            thinking skills, and to hone their public speaking skills. It was also a great opportunity for students to come together and 
+            celebrate their school spirit.</p>
+    </div>
+</div>
+
+<div class="bg-primary movie_head" data-toggle="collapse" data-target="#school_achievement2">Inter School Football Competition<i class="fa fa-sort-desc"></i>
+</div>
+
+<div id="school_achievement2" class="collapse">
+    <div class="achievement_text">
+        <img src="sm2.jpg" class="img-responsive img-thumbnail">
+        <h5 class="text-success text-capitalize">Came Second In Inter School Football Competition
+            <span class="glyphicon glyphicon-star"></span>
+            <span class="glyphicon glyphicon-star"></span>
+            <span class="glyphicon glyphicon-star"></span>
+            <span class="glyphicon glyphicon-star"></span>
+            <span class="glyphicon glyphicon-star"></span>
+        </h5>
+        <p>The final whistle blew, and the crowd erupted into cheers. The opposing team had won, but for the students of this school, 
+            coming second was still a victory for them.Even though they didn't win, they could hold their heads high. They had come a 
+            long way, and they had made their school proud. All were ecstatic with the team's performance this year.</p>
+    </div>
+</div>
+
+<div class="bg-primary movie_head" data-toggle="collapse" data-target="#school_achievement3">Inter School Football Competition<i class="fa fa-sort-desc"></i>
+</div>
+
+<div id="school_achievement3" class="collapse">
+    
+    <div class="achievement_text">
+        <img src="sm3.jpg" class="img-responsive img-thumbnail">
+        <h5 class="text-success text-capitalize">Came Third In Inter School Science Project Competition
+            <span class="glyphicon glyphicon-star"></span>
+            <span class="glyphicon glyphicon-star"></span>
+            <span class="glyphicon glyphicon-star"></span>
+            <span class="glyphicon glyphicon-star"></span>
+            <span class="glyphicon glyphicon-star"></span>
+        </h5>
+        <p>The students' victory was a reminder that anything is possible if you set your mind to it. They were just a couple of students,
+             but they had a big idea and they were able to make it a reality. They were an inspiration to everyone who knew them, and they
+              showed that the future is bright for STEM education.</p>
+    </div>
+</div>
+
+</body>
+
+</html>
